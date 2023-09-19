@@ -1,2 +1,2 @@
-👋 Hi, I’m @emmaolani
+👋 Hi, I’m Emmanuel Olaniyan
 
