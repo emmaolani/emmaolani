@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_jstaregularguy" target="blank"><img src="https://img.shields.io/twitter/follow/_jstaregularguy?logo=twitter&style=for-the-badge" alt="_jstaregularguy" /></a> </p>
 
-- 🔭 I’m currently working on [IdentityAccessManagementSystem](https://github.com/emmaolani/IdentityAndAccess)
+- 🔭 I’m currently working on an open source [IdentityAccessManagementSystem](https://github.com/emmaolani/IdentityAndAccess)
 
 - 📫 How to reach me **olaniemma16@mail.com**
 
