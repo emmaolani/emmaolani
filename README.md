@@ -8,5 +8,7 @@
 💯 I'm results-oriented and committed to delivering high-quality work.<br/>
 🔍 I'm always curious about new technologies and approaches.<br/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmaolani)](https://github.com/emmaolani/github-readme-stats)
+
 
 
